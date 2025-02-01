@@ -1,5 +1,8 @@
-.DS_Store
 .git
+
+.DS_Store
+
+/ART
 
 *.iso
 *.VCD
